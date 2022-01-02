@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <xml>    
 	<ModInfo>                  
-		<Author value="Robear" />     
+		<Author value="Adreden, Updated by (A20) Robear" />     
 		<Name value="Schematic Tracker" />    
 		<Description value="This allow you to see what schematics you have found or learned." />              
 		<Version value="0.1" />    
